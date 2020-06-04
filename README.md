@@ -1,2 +1,2 @@
-# practicas
+# Practicas
 ejercicios de clase
